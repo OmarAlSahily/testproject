@@ -3,7 +3,7 @@ const app = express();
 const port = 4000;
 
 app.get('/api/message', (req, res) => {
-  res.json({ message: "مرحباً بك! هذا أول تحديث أوتوماتيكي من جينكنز 🚀" });
+  res.json({ message: "مرحباً بكxd xd xd ! هذا أول تحديث أوتوماتيكي من جينكنز 🚀" });
 });
 
 app.get('/', (req, res) => {
